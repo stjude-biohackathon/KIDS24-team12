@@ -2,3 +2,7 @@
 .cnvrg/
 .cnvrgignore
 *token*
+dataset.json
+metadata.json
+page*.pdf
+vm_files/Jose/cache/
