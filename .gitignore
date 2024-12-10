@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+.cnvrg/
+.cnvrgignore
+*token*
+dataset.json
+metadata.json
+page*.pdf
+vm_files/Jose/cache/
+vm_files/Jose/RAG-openai-data/
+vm_files/Jose/faiss_index_/
+vm_files/Jose/files/RAG_raw_data.json
+vm_files/Jose/old_LLaMA-Factory/
